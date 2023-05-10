@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="216px" height="216px" viewBox="0 0 216 216" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -21.981000)" fill="#4D45EE">
+            <rect id="Rectangle" transform="translate(108.000000, 129.981000) scale(-1, 1) translate(-108.000000, -129.981000) " x="0" y="21.981" width="216" height="216" rx="59"></rect>
+        </g>
+    </g>
+</svg>
